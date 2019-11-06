@@ -1,0 +1,149 @@
+  .btn-round {
+  width:200px;  
+margin:30px auto;
+display:block; 
+padding:20px;
+  }
+
+  .container {
+  background:url(photo-1490187763999-9f273a5b7516.jpeg);  
+  background-size:cover;
+  }
+
+  .title, .info-title, .card-title {
+    font-family:'Bebas Neue';  
+  }
+
+  h1 {
+  font-family:'Bebas Neue';
+  font-size:8em !important;
+  line-height:1em;
+  }
+
+  .navbar-brand {
+   font-family:'Bebas Neue';
+   font-size:2em !important;
+   line-height:1em;  
+  }
+
+  strong {
+  font-weight:800;  
+  }
+
+  .btn-round a {
+  color:white;  
+  }
+
+  .btn {
+  background:#2699FB !important;  
+  border:none;
+  }
+
+  .card-body a {
+  color:#2699FB;  
+  }
+
+  .btn {
+    border:none !important; 
+      box-shadow:none !important; 
+      
+  }
+
+  .btn:hover {
+  box-shadow:none !important;
+  }
+
+
+.btn:focus,
+.btn.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(24, 68, 132, 0.64);
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+  box-shadow: none, 0 0 0 0.2rem rgba(24, 68, 132, 0.64);
+}
+
+
+.blue-filter:after {
+  background: rgba(24, 68, 132, 0.64);
+  background: linear-gradient(45deg, rgba(24, 68, 132, 0.88) 0%, rgba(24, 68, 132, 0.45) 100%);
+  background: -moz-linear-gradient(135deg, rgba(24, 68, 132, 0.88) 0%, rgba(24, 68, 132, 0.45) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(24, 68, 132, 0.88) 0%, rgba(24, 68, 132, 0.45) 100%);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+  box-shadow: none, 0 0 0 0.2rem rgba(24, 68, 132, 0.5);
+}
+
+.btn-secondary {
+  color: #ffffff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  box-shadow: none;
+}
+
+.btn-secondary:hover {
+  color: #ffffff;
+  background-color: #5a6268;
+  border-color: #545b62;
+}
+
+.btn-secondary:focus,
+.btn-secondary.focus {
+  box-shadow: none, 0 0 0 0.2rem rgba(24, 68, 132, 0.5);
+}
+
+.btn-secondary.disabled,
+.btn-secondary:disabled {
+  color: #ffffff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active,
+.btn-secondary:not(:disabled):not(.disabled).active,
+.show>.btn-secondary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #545b62;
+  border-color: #4e555b;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active:focus,
+.btn-secondary:not(:disabled):not(.disabled).active:focus,
+.show>.btn-secondary.dropdown-toggle:focus {
+  box-shadow: none, 0 0 0 0.2rem rgba(24, 68, 132,0.5);
+}
+
+.btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary:hover {
+  box-shadow: none, 0 0 0 0.2rem rgba(24, 68, 132, 0.5);  
+}  
+
+.btn-just-icon i {
+color:white;  
+}
+
+.text-muted {
+color:black !important; 
+font-size:16px; 
+}
+
+.title span {
+color:grey;  
+}
+
+#responseMessage {  
+margin-top:10px;  
+}
+
+#prototype i {
+font-size:14px;
+margin-left:24px;  
+}
+
+.form-control, .is-focused .form-control {
+ background-image: linear-gradient(to top, #2196f3 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px); 
+} 
