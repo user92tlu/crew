@@ -5,6 +5,10 @@ display:block;
 padding:20px;
   }
 
+  .btn-round a {
+  padding:30%;
+  }
+
   .container {
   background:url(photo-1490187763999-9f273a5b7516.jpeg);  
   background-size:cover;
