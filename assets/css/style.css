@@ -3,6 +3,10 @@
   src: url('BebasNeue Regular.ttf');
 }
 
+.page-header {
+height:100vh !important;  
+}
+
 .btn-round {
   width:200px;  
 margin:30px auto;
