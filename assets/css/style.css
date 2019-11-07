@@ -18,6 +18,7 @@ padding:20px;
     padding: 12px 12px 0px 28px;
     letter-spacing: 18px;
     font-family: bebas-neue, sans-serif;
+    text-transform: uppercase;
 }
 
 .navbar .navbar-brand {
@@ -25,6 +26,7 @@ padding:20px;
     padding: 10px 0 0 10px;
     letter-spacing: 8px;
     font-family: bebas-neue, sans-serif;
+    text-transform: uppercase;
 }
 
 .index-page .brand h3 {
