@@ -21,6 +21,11 @@ padding:20px;
     letter-spacing: 8px;
 }
 
+.index-page .brand h3 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
   .container {
   background:url(photo-1490187763999-9f273a5b7516.jpeg);  
   background-size:cover;
