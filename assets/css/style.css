@@ -20,7 +20,7 @@ padding:20px;
 
 .index-page .brand h1 {
     border: 10px solid #ffffff;
-    padding: 12px 12px 12px 28px;
+    padding: 12px 12px 0px 28px;
     letter-spacing: 18px;
     text-transform: uppercase;
 }
