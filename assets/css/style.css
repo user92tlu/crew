@@ -1,5 +1,6 @@
-body{
- 
+@font-face {
+  font-family: bebas-neue;
+  src: url('BebasNeueRegular.ttf');
 }
 
 .btn-round {
