@@ -1,4 +1,8 @@
-  .btn-round {
+font-family: bebas-neue, sans-serif;
+font-style: normal;
+font-weight: 400;  
+
+.btn-round {
   width:200px;  
 margin:30px auto;
 display:block; 
