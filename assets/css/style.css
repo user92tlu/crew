@@ -47,15 +47,29 @@ padding:20px;
      font-family: 'Oswald', sans-serif; 
   }
 
-  h1, h2, h3, h4, h5, h6 {font-weight:500;}
+  h1, h4 {font-weight:500;}
 
-  h4 {text-transform:uppercase}  
+  .card-title {text-transform:uppercase;}
 
   h1 {
   font-family: 'Oswald', sans-serif;
   font-size:7em !important;
   line-height:1em;
   }
+
+  h2 {
+ text-transform:capitalize; 
+} 
+
+.description {
+font-family:'Roboto', sans-serif;  
+font-weight:300;  
+}
+
+.card-description {
+font-weight:200;} 
+
+
 
   .navbar-brand {
   font-family: 'Oswald', sans-serif;
