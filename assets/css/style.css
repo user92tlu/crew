@@ -44,7 +44,7 @@ padding:20px;
   }
 
   .title, .info-title, .card-title {
-     font-family: 'Oswald', sans-serif; 
+  font-family: 'Bebas Neue', cursive; 
   }
 
   h1, h4 {font-weight:500;}
@@ -52,7 +52,7 @@ padding:20px;
   .card-title {text-transform:uppercase;}
 
   h1 {
-  font-family: 'Oswald', sans-serif;
+font-family: 'Bebas Neue', cursive;
   font-size:7em !important;
   line-height:1em;
   }
@@ -72,7 +72,7 @@ font-weight:200;}
 
 
   .navbar-brand {
-  font-family: 'Oswald', sans-serif;
+ font-family: 'Bebas Neue', cursive;
    font-size:2em !important;
    line-height:1em;  
   }
